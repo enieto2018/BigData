@@ -1,0 +1,22 @@
+Taller 1.
+
+Modelo SQL.
+
+Objetivo:
+
+Implementar proceso de ETL sobre el arv¿chivo de Quejas y reclamos de la Superintendencia NAcional de Salud.
+
+https://www.datos.gov.co/dataset/Base-de-Datos-PQRD-2019/7tnj-gcrx
+
+Se desea hacer:
+
+1. Migrar el archivo a una base de datos Relacional de tal forma que contenga:
+
+- Tabla de departamentos
+- Tabla de municipios (Relacionada con departamentos)
+- Tabla de PQR: cod_motesp, motivo_especifico, riesgo_vida, municipio, departamento
+
+2. Realizar las siguientes consultas:
+- Cantidad de PQR del un departamento (seleccionar)
+- Cantidad de PQR de un municipio de ese departamento (del departamento seleccionado)
+- CAtnidad de quejas agrupado por motivo que pongan en peligro al paciente en el municipio seleccionado 
