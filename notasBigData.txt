@@ -1,0 +1,93 @@
+######## Explicacion diccionario#################
+salida= {nombre: estefania, apellido: Nieto}
+salida[0]
+salida[nombre]
+
+########## Cantidad por resultado de la prueba#######################
+salida= {test_positive:[1,1,1,1,1,1,1,1,1,1,],
+	 test_negative:[1,1,1,1,1]
+	 test_not_define:[1,1,1,1,1]}
+
+len([1,1,1,1,1,1,1,1,1,1])
+test_positive= len([1,1,1,1,1,1,1,1,1,1,])
+test_negative= len([1,1,1,1,1])
+test_no_define
+
+################# Promedio de edad por resultado de la prueba"
+salida= {test_positive= [25,24,48,32])
+	 test_negative=[12,60])}
+
+################# cantidad X Codigo municipio
+salida= {564564564= [1,1,1,1])
+	 282894=[1,1])}
+
+564564564 : 4
+282894: 2
+
+Pereira	1
+Pereira	1
+Apia	1
+
+suma= 10 + 6 = 16
+suma = 16 + 1 = 17
+
+salida= {Pereira: [1,1,1,1,1,1,1,1,1,1],
+	 Apia= [1,1,1,1,1,1])
+	 Virginia = [1]}
+
+
+Risaralda,Pereira
+Valle,Cali
+Antioquia,Medellin
+Risaralda,Santarosa
+Risaralda,Santarosa
+Risaralda,Pereira
+Antioquia,Medellin
+Risaralda,Pereira
+Risaralda,Pereira
+Risaralda,Pereira
+Risaralda,Apia
+Valle,Tunja
+
+---## PRUEBA DE ESCRITORIO PARA TEFA##
+Risaralda,Pereira --> line
+---Valores del split
+	cod = Risaralda
+	valor = Pereira
+
+Salida = {"Risaralda" :  {"Pereira": 1, "santarosa": 1} ,
+          "Valle" : {"Cali" :2, "Tunja": 1},
+	 }
+
+{"Pereira": 1, "santarosa": 1}
+
+print(salida["Risaralda"]) = 
+
+	
+Salida[cod] = {"Pereira": }
+Salida[cod] ["Pereira"]	
+{"Pereira": 1}["Pereira"] = {"Pereira": 1}["Pereira"] + 1
+
+
+
+map = {"valor1" : 1, "valor2" : 2}
+array = [9,56456,5454,454,545]
+
+map["valor2"] = 2
+array[3] = 454
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
